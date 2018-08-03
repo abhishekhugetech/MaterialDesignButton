@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Design Button</string>
+    <string name="flat_button">Flat Button</string>
+    <string name="working">Listener is Working</string>
+    <string name="done">Ok Done</string>
+    <string name="raised_button">Raised Button</string>
+</resources>
